@@ -1,7 +1,7 @@
 ##Zigbee 3 Usb Stick
 
 CC2538-CC2592 Modul
-![complete](Images/1.jpg)
+![complete](Images/1.JPG)
 
 ## Solftware
 
