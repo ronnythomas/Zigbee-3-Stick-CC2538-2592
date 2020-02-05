@@ -1,6 +1,7 @@
 ##Zigbee 3 Usb Stick
 
 CC2538-CC2592 Modul
+![complete](Images/1.jpg)
 
 ## Solftware
 
@@ -17,7 +18,7 @@ CC2538-CC2592.hex zum Flashen nutzen.
 [Howto](https://github.com/ronnythomas/Zigbee-3-Stick-CC2538-2592/tree/master/Images/JLink-Flashen.pdf)
 
 
-##Teileliste
+## Teileliste
 
 | Pos  | Menge   | Wert      | Bauform  | Bemerkung | Link |
 | ---   | ---  | ---       | ---      | ---       | --- |
