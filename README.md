@@ -1,4 +1,4 @@
-##Zigbee 3 Usb Stick
+## Zigbee 3 Usb Stick
 
 CC2538-CC2592 Modul <br />
 ![complete](Images/1.JPG)
@@ -38,5 +38,5 @@ CC2538-CC2592.hex zum Flashen nutzen.
 | Sma Anschluss | 1 | |  | nur bei externer Antenne| [Link Buchse](https://de.aliexpress.com/item/4000010110929.html?spm=a2g0s.9042311.0.0.683d4c4dCiU6km) [Link Stecker](https://de.aliexpress.com/item/32876812319.html?spm=a2g0s.9042311.0.0.27424c4dboNjWv)
 | RG178 Kabel | 1 | |  | Anschlusskabel externe Antenne | [Link](https://de.aliexpress.com/item/32981172826.html?spm=a2g0o.productlist.0.0.1eba5b955jeuxe&algo_pvid=6a8bf0cb-5462-437d-a016-634d323400ef&algo_expid=6a8bf0cb-5462-437d-a016-634d323400ef-0&btsid=ff874e91-83d0-4512-aec3-596f8bb1fa6b&ws_ab_test=searchweb0_0,searchweb201602_10,searchweb201603_55)
 
-[Reichelt Warenkorb ohne externe Antenne](https://www.reichelt.de/my/1670772)<br />
+[Reichelt Warenkorb ohne externe Antenne](https://www.reichelt.de/my/1670772) Teilepreis ca.2,60€<br />
 [CC2538 + CC2592 PA Zigbee Wireless Modul](https://de.aliexpress.com/item/32880588264.html?spm=a2g0s.9042311.0.0.683d4c4dw2suLa)
