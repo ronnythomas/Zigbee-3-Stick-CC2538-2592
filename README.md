@@ -43,4 +43,6 @@ CC2538-CC2592.hex zum Flashen nutzen.
 
 ![complete](Images/1.JPG)
 
+![complete](Images/3.jpg)
+
 ![complete](Images/2.jpg)
