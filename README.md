@@ -1,7 +1,7 @@
 ## Zigbee 3 Usb Stick
 
 CC2538-CC2592 Modul <br />
-![complete](Images/1.JPG)
+
 
 ## Solftware
 
@@ -40,3 +40,7 @@ CC2538-CC2592.hex zum Flashen nutzen.
 
 [Reichelt Warenkorb ohne externe Antenne](https://www.reichelt.de/my/1670772) Teilepreis ca.2,60€<br />
 [CC2538 + CC2592 PA Zigbee Wireless Modul](https://de.aliexpress.com/item/32880588264.html?spm=a2g0s.9042311.0.0.683d4c4dw2suLa)
+
+![complete](Images/1.jpg)
+
+![complete](Images/2.jpg)
