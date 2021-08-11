@@ -5,7 +5,7 @@ CC2538-CC2592 Modul <br />
 
 ## Solftware
 
-[CC2538-ZNP-Coordinator-firmware](https://github.com/antst/CC2538-ZNP-Coordinator-firmware) <br />
+[CC2538-Coordinator-Firmware](https://github.com/jethome-ru/zigbee-firmware/tree/master/ti/coordinator/cc2538_cc2592) <br />
 CC2538-CC2592.hex zum Flashen nutzen.
 
 ## Hardware zum Flashen
